@@ -14,7 +14,7 @@ title: "Contact"
       <h1>{{ site.author.name }}</h1>
       <p class="intro-text">
         The best way to reach me is by email. I'm happy to hear about collaborations, questions on my
-        work, or tutoring enquiries.
+        work, or opportunities in theoretical condensed matter physics.
       </p>
       <ul class="contact-list">
         <li>
