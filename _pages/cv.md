@@ -13,19 +13,26 @@ redirect_from:
 
 Research Interests
 ======
-Theoretical condensed matter physics, particularly the interplay of topology, dissipation, and non-equilibrium systems. Interested in non-Hermitian physics, Floquet engineering, and entanglement structure in topological phases, with a longer-term aim of exploring strongly correlated systems, many-body localization, open quantum systems, and field-theoretic methods of condensed matter physics.
+Theoretical and computational condensed matter physics, centred on the interplay of topology, non-Hermiticity, and periodic driving. My current work spans Floquet engineering of higher- and hybrid-order topological phases, non-Bloch band theory and the non-Hermitian skin effect, and the entanglement structure of driven, disordered, and monitored fermionic systems. I am extending this towards measurement-induced transitions in Majorana circuits, open quantum systems, and field-theoretic descriptions of topological criticality.
+
+Research Positions
+======
+* **Junior Research Fellow**, School of Physics, IISER Thiruvananthapuram — Oct. 2025 - present
+  * ANRF-funded project *Theoretical study of robust topological quantum systems and their characterization* · PI: Dr. Suraj S. Hegde
 
 Education
 ======
-* Junior Research Fellow, Indian Institute of Science Education and Research (IISER) Thiruvananthapuram, Kerala, India — Oct. 2025 - present
-* M.Sc. in Physics, Indian Institute of Technology (IIT) Guwahati, Assam, India — July 2025 (CGPA: 8.99/10.0)
-* B.Sc. in Physics, Cotton University, Guwahati, Assam, India — June 2023 (GPA: 9.43/10.0)
+* **M.Sc. in Physics**, Indian Institute of Technology (IIT) Guwahati — 2023 - 2025
+  * CGPA 8.99/10.0 · Thesis: *Non-Hermitian Topology and Floquet Skin Effect* · Advisor: Prof. Saurabh Basu
+* **B.Sc. in Physics**, Cotton University, Guwahati — 2020 - 2023
+  * CGPA 9.43/10.0 · First rank in the university · Gold Medal
 
 Research Experience
 ======
 * **Indian Institute of Science Education and Research (IISER), Thiruvananthapuram** — Oct. 2025 - Present
   * Supervisor: Dr. Suraj S. Hegde, School of Physics, IISER TVM
-  * Exploring non-Hermitian topology in monitored quantum circuits, feedback-controlled topological channels, entanglement properties of driven Kitaev chains, measurement-induced entanglement transitions in Majorana circuits, and emergent Fermi surfaces in non-Hermitian fermionic chains driven by the skin effect.
+  * *Entanglement structure of driven and disordered Kitaev chains* — numerical study of half-chain and topological entanglement entropy across disorder-induced transitions between Floquet Majorana phases; extraction of effective central charges and tests of infinite-randomness scaling.
+  * *Non-Hermitian topology in monitored and feedback-controlled systems* — skin-effect-driven emergent Fermi surfaces in non-Hermitian fermionic chains, and measurement-induced entanglement transitions in Majorana circuits.
 
 * **Indian Institute of Technology (IIT) Guwahati** — July 2024 - July 2025
   * Supervisor: Prof. Saurabh Basu, Department of Physics, IITG
@@ -57,14 +64,20 @@ National Exams Qualified
 * **IIT-JAM 2023 (Physics)** — All India Rank 271/12,740.
 * **IIT JEE-Mains 2020** — Qualified for undergraduate engineering admissions.
 
+Teaching
+======
+* **Private tutor, Physics** — one-to-one tuition, 2026 - present. Weekly sessions on electromagnetism, mathematical physics, and quantum mechanics.
+
 Key Courses Taken
 ======
-* Mathematical Physics, Classical Mechanics, Electromagnetic Theory, Waves and Optics, Quantum Mechanics and Applications, Solid State Physics, Astronomy and Astrophysics, Thermodynamics, Statistical Mechanics, Nuclear and Particle Physics, Atomic and Molecular Physics, Quantum Field Theory, General Relativity, Quantum Information and Computation, Topics in Condensed Matter Physics.
+* **Selected graduate coursework:** Quantum Field Theory, General Relativity, Quantum Information and Computation, Open Quantum Systems, Topics in Condensed Matter Physics, Advanced Statistical Mechanics, Solid State Physics, Mathematical Physics.
+* **Undergraduate:** Classical Mechanics, Electromagnetic Theory, Waves and Optics, Quantum Mechanics and Applications, Astronomy and Astrophysics, Thermodynamics, Statistical Mechanics, Nuclear and Particle Physics, Atomic and Molecular Physics.
 
-Skills
+Technical Skills
 ======
-* **Programming:** Python, C/C++, Mathematica, Scilab, Fortran
-* **Software:** LaTeX, MS Word, MS PowerPoint, Excel
+* **Numerical methods:** Exact diagonalization; self-consistent Bogoliubov-de Gennes solvers; Floquet and Magnus expansions, two-frame stroboscopic evolution; non-Bloch band theory and generalized-Brillouin-zone construction; real-space topological markers and spectral localizers; entanglement entropy, inverse participation ratio and level-statistics computation; transfer-matrix methods.
+* **Programming:** Python (NumPy, SciPy, Matplotlib), C/C++, Fortran, Mathematica, Scilab
+* **Tools:** LaTeX
 
 Outreach
 ======
@@ -79,4 +92,4 @@ Languages
 Referees
 ======
 * **Dr. Suraj S. Hegde**, Assistant Professor, School of Physics, IISER Thiruvananthapuram — surajhegde@iisertvm.ac.in
-* **Dr. Saurabh Basu**, Professor, Department of Physics, IIT Guwahati — saurabh@iitg.ac.in
+* **Prof. Saurabh Basu**, Professor, Department of Physics, IIT Guwahati (M.Sc. project and thesis supervisor) — saurabh@iitg.ac.in

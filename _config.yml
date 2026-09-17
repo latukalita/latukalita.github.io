@@ -22,7 +22,7 @@ repository               : "latukalita/latukalita.github.io" # TODO: confirm thi
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" # TODO: replace with your own photo, see note below
+  avatar           : "dp.jpeg"
   name             : "Latu Kalita"
   pronouns         : # example: "she/her"
   bio              : "Junior Research Fellow at IISER Thiruvananthapuram, working on topology, non-Hermitian physics, and Floquet-driven quantum systems."

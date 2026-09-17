@@ -175,7 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: var(--global-bg-color);
+  background: var(--global-masthead-bg-color, var(--global-bg-color));
 
   a {
     display: block;
@@ -183,6 +183,7 @@
     padding: 0.5rem 0;
     color: var(--global-masthead-link-color);
     text-decoration: none;
+    font-weight: 700;
 
     &:hover {
       color: var(--global-masthead-link-color-hover);
@@ -191,13 +192,15 @@
 
   button {
     position: absolute;
-    height: 2.5rem;
+    height: 2.4rem;
+    min-width: 2.8rem;
     right: 0;
     padding: 0 0.5rem;
-    border: 0;
+    border: 1px solid var(--global-base-color);
+    border-radius: 14px;
     outline: none;
-    background-color: var(--global-bg-color);
-    color: var(--global-text-color);
+    background-color: var(--global-base-color);
+    color: #fff;
     cursor: pointer;
     z-index: 100;
   }
