@@ -7,30 +7,27 @@ title: "Contact"
 {% include base_path %}
 
 <section class="hero-section">
-  <div class="hero-grid">
-    <img class="hero-portrait" src="{{ site.author.avatar | prepend: '/images/' | prepend: base_path }}" alt="{{ site.author.name }}">
-    <div class="hero-copy">
-      <div class="section-label"><span>Contact</span></div>
-      <h1>{{ site.author.name }}</h1>
-      <p class="intro-text">
-        The best way to reach me is by email. I'm happy to hear about collaborations, questions on my
-        work, or opportunities in theoretical condensed matter physics.
-      </p>
-      <ul class="contact-list">
-        <li>
-          <i class="fas fa-fw fa-envelope" aria-hidden="true"></i>
-          <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
-        </li>
-        <li>
-          <i class="fas fa-fw fa-building-columns" aria-hidden="true"></i>
-          {{ site.author.employer }}
-        </li>
-        <li>
-          <i class="fas fa-fw fa-location-dot" aria-hidden="true"></i>
-          {{ site.author.location }}
-        </li>
-      </ul>
-    </div>
+  <div class="hero-copy">
+    <div class="section-label"><span>Contact</span></div>
+    <h1>{{ site.author.name }}</h1>
+    <p class="intro-text">
+      The best way to reach me is by email. I'm happy to hear about collaborations, questions on my
+      work, or opportunities in theoretical condensed matter physics.
+    </p>
+    <ul class="contact-list">
+      <li>
+        <i class="fas fa-fw fa-envelope" aria-hidden="true"></i>
+        <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+      </li>
+      <li>
+        <i class="fas fa-fw fa-building-columns" aria-hidden="true"></i>
+        {{ site.author.employer }}
+      </li>
+      <li>
+        <i class="fas fa-fw fa-location-dot" aria-hidden="true"></i>
+        {{ site.author.location }}
+      </li>
+    </ul>
   </div>
 </section>
 
