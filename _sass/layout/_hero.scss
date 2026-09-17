@@ -161,3 +161,26 @@
   font-style: italic;
   color: var(--global-text-color-light);
 }
+
+.contact-list {
+  margin: 1.5rem 0 0;
+  padding: 0;
+  list-style: none;
+
+  li {
+    display: flex;
+    align-items: baseline;
+    gap: 0.7rem;
+    margin-bottom: 0.7rem;
+    font-size: 1.05rem;
+    color: var(--global-text-color-light);
+  }
+
+  i {
+    color: var(--global-base-color);
+  }
+}
+
+.contact-list--profiles {
+  margin-top: 0;
+}

@@ -23,7 +23,7 @@ redirect_from:
       <div class="button-row">
         <a href="{{ base_path }}/publications/" class="btn">Publications</a>
         <a href="{{ base_path }}/cv/" class="btn">CV</a>
-        <a href="mailto:{{ site.author.email }}" class="btn">Email</a>
+        <a href="{{ base_path }}/contact/" class="btn">Contact</a>
       </div>
     </div>
   </div>
