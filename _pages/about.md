@@ -42,31 +42,6 @@ redirect_from:
   </div>
 </section>
 
-<section class="home-section" id="highlights">
-  <div class="section-heading">
-    <div class="section-label"><span>Recent Highlights</span></div>
-    <h2>Latest news</h2>
-  </div>
-  <div class="highlight-grid">
-    <div class="card">
-      <h3>Paper accepted at PRR</h3>
-      <p>"Floquet generation of hybrid-order topology and Z<sub>2</sub>-like bipolar localization" has been accepted modulo correction at Physical Review Research.</p>
-    </div>
-    <div class="card">
-      <h3>CSIR-UGC NET, December 2025</h3>
-      <p>Qualified with an All India Rank of 174/22,533, earning JRF and Assistant Professor eligibility.</p>
-    </div>
-    <div class="card">
-      <h3>GATE Physics 2025</h3>
-      <p>Qualified with All India Rank 325/19,225.</p>
-    </div>
-    <div class="card">
-      <h3>IIT-JAM Physics 2023</h3>
-      <p>Qualified with All India Rank 271/12,740.</p>
-    </div>
-  </div>
-</section>
-
 <section class="home-section" id="publications-preview">
   <div class="section-heading">
     <div class="section-label"><span>Publications</span></div>
