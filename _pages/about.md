@@ -51,7 +51,8 @@ redirect_from:
   <div class="pub-grid">
     {% assign recent_pubs = site.publications | sort: 'date' | reverse %}
     {% for pub in recent_pubs limit:4 %}
-      <a class="card" href="{{ base_path }}{{ pub.permalink }}">
+      {% assign paper_link = pub.journalurl | default: pub.arxivurl %}
+      <a class="card" href="{% if paper_link %}{{ paper_link }}{% else %}{{ base_path }}{{ pub.permalink }}{% endif %}">
         <h3>{{ pub.title }}</h3>
         <p>{{ pub.excerpt | strip_html }}</p>
         <span class="card-meta">{{ pub.venue }}</span>
