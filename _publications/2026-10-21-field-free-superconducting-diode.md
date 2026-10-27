@@ -7,7 +7,6 @@ excerpt: 'A traveling-wave chemical-potential drive breaks inversion and time-re
 date: 2026-10-21
 venue: 'arXiv:2610.29865'
 paperurl: 'https://arxiv.org/abs/2610.29865'
-citation: 'L. Kalita, K. Roy, B. Tanatar, and S. Basu. "From traveling waves to synthetic gauge fields: A field-free route to superconducting diode effect." arXiv:2610.29865 (2026).'
 ---
 
 A chemical potential driven in both space and time breaks inversion and time-reversal symmetry without an external magnetic field. In a helical Shiba chain the drive generates an odd-in-momentum term that acts as an imaginary next-nearest-neighbour hopping, i.e. a synthetic gauge flux rather than a Zeeman field. The rectification depends on the drive wavevector: it vanishes at particular values and peaks at an analytically identified optimum. It survives at zero exchange coupling and scales inversely with the pair-breaking gap. The rectification reaches about 50% in the topological phase and 10% in the trivial phase, and the drive can switch, tune, and reverse it.
