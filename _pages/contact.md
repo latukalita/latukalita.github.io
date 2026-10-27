@@ -20,6 +20,10 @@ title: "Contact"
         <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
       </li>
       <li>
+        <i class="fas fa-fw fa-envelope" aria-hidden="true"></i>
+        <a href="mailto:latu26@iisertvm.ac.in">latu26@iisertvm.ac.in</a>
+      </li>
+      <li>
         <i class="fas fa-fw fa-building-columns" aria-hidden="true"></i>
         {{ site.author.employer }}
       </li>
