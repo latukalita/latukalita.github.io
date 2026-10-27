@@ -36,6 +36,9 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h3>
+    {% if post.journalurl or post.arxivurl %}
+      <p>{% if post.venue %}<i>{{ post.venue }}</i> · {% endif %}{% if post.journalurl %}<a href="{{ post.journalurl }}">{{ post.journalname | default: "Journal" }}</a>{% endif %}{% if post.journalurl and post.arxivurl %} | {% endif %}{% if post.arxivurl %}<a href="{{ post.arxivurl }}">arXiv</a>{% endif %}</p>
+    {% endif %}
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}

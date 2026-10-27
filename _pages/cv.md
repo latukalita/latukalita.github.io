@@ -37,8 +37,8 @@ Research Experience
 
 * **Indian Institute of Technology (IIT) Guwahati** — July 2024 - July 2025
   * Supervisor: Prof. Saurabh Basu, Department of Physics, IITG
-  * *Field-free superconducting diode effect from traveling-wave drives* — showed that a traveling-wave chemical-potential drive generates a synthetic gauge flux in a helical Shiba chain, giving a tunable, reversible superconducting diode effect with no external magnetic field. (arXiv:2610.29865)
-  * *Floquet Hybrid-Order Topology and Z2-like Bipolar Skin Localization* — showed that periodic driving activates first-order helical edge states coexisting with higher-order corner modes in a BBH lattice, and uncovered a drive-controlled unipolar-to-bipolar skin localization transition characterized via a non-Bloch Floquet GBZ framework. (Phys. Rev. Research 8, 043094 (2026))
+  * *Field-free superconducting diode effect from traveling-wave drives* — showed that a traveling-wave chemical-potential drive generates a synthetic gauge flux in a helical Shiba chain, giving a tunable, reversible superconducting diode effect with no external magnetic field. ([arXiv:2610.29865](https://arxiv.org/abs/2610.29865))
+  * *Floquet Hybrid-Order Topology and Z2-like Bipolar Skin Localization* — showed that periodic driving activates first-order helical edge states coexisting with higher-order corner modes in a BBH lattice, and uncovered a drive-controlled unipolar-to-bipolar skin localization transition characterized via a non-Bloch Floquet GBZ framework. ([Phys. Rev. Research 8, 043094 (2026)](https://doi.org/10.1103/rlrh-clk2) · [arXiv:2603.21954](https://arxiv.org/abs/2603.21954))
   * *Non-Hermitian Topology and Floquet Skin Effect* (M.Sc. Thesis) — studied skin effect and bulk-boundary correspondence breakdown in the SSH model and 2D p-wave superconductor models using generalized Brillouin zone (GBZ) construction and Floquet formalism.
 
 * **Cotton University, Guwahati** — June 2023
